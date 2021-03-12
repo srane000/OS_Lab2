@@ -1,0 +1,1 @@
+2)Process P prints first then process Q followed by proces Q and then process R. The process Q prints before and after forking. The processes have different PIDs and the second parent process R is incremented by 1 from the first parent process.
